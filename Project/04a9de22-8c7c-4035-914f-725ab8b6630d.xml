@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <MappedVariableIds>
+    <MappedVariableId PortId="c64fa3da-10cb-40b9-9b33-50a517c236ec">
+      <MappedVariable VariableId="3810ad55-9fe6-4162-80d8-f114dcd135ac" />
+    </MappedVariableId>
+    <MappedVariableId PortId="c23f625f-f94c-44e4-8cf9-5bae4b619855">
+      <MappedVariable VariableId="3a7df38b-e8b9-4eb1-8db7-48ebf0b6e353" />
+    </MappedVariableId>
+    <MappedVariableId PortId="7becd9b1-5c02-4180-a685-67ba2d779322">
+      <MappedVariable VariableId="c7acc140-42fb-4cce-8739-34e424781e89" />
+    </MappedVariableId>
+    <MappedVariableId PortId="b60cf79c-9776-41e8-b52e-24af414e3d72">
+      <MappedVariable VariableId="41cac459-52b0-459d-9b28-c2dcad154d2e" />
+    </MappedVariableId>
+    <MappedVariableId PortId="1289c892-fb36-4405-8e8c-e88876060ccf">
+      <MappedVariable VariableId="1defd8db-b9af-4546-b01c-e6650c6db1aa" />
+    </MappedVariableId>
+    <MappedVariableId PortId="4b568bb5-8b19-4d8a-8b8a-026dbc405af8">
+      <MappedVariable VariableId="77934f57-7756-4b68-beb3-0eac58158e00" />
+    </MappedVariableId>
+  </MappedVariableIds>
+  <VariableTableTrackingIds>
+    <VariableTableTrackingId VariableId="3810ad55-9fe6-4162-80d8-f114dcd135ac" VariableTableTrackingId="1f6759ff-a4ef-4f24-abd4-97b69eb92674" />
+    <VariableTableTrackingId VariableId="3a7df38b-e8b9-4eb1-8db7-48ebf0b6e353" VariableTableTrackingId="1f6759ff-a4ef-4f24-abd4-97b69eb92674" />
+    <VariableTableTrackingId VariableId="c7acc140-42fb-4cce-8739-34e424781e89" VariableTableTrackingId="1f6759ff-a4ef-4f24-abd4-97b69eb92674" />
+    <VariableTableTrackingId VariableId="41cac459-52b0-459d-9b28-c2dcad154d2e" VariableTableTrackingId="1f6759ff-a4ef-4f24-abd4-97b69eb92674" />
+    <VariableTableTrackingId VariableId="1defd8db-b9af-4546-b01c-e6650c6db1aa" VariableTableTrackingId="1f6759ff-a4ef-4f24-abd4-97b69eb92674" />
+    <VariableTableTrackingId VariableId="77934f57-7756-4b68-beb3-0eac58158e00" VariableTableTrackingId="1f6759ff-a4ef-4f24-abd4-97b69eb92674" />
+  </VariableTableTrackingIds>
+</data>

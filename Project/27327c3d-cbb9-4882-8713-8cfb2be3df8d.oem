@@ -247,7 +247,7 @@
           </Entity>
         </ChildEntities>
       </Entity>
-      <Entity type="Device" subtype="NA" id="39296352-9ef3-4ac9-8da4-0f2f7eed2a50" name="HMI" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 10:07:26" trackingId="36006d84-09de-45ca-8b86-10074dd261c9" DN="HMI" hash="f04ba8027097c732f068d506fda1b792" DHS="4e31db244aed269d984d9de40672fc66" TH="6c80a8c698c5c9263e0ae6339a3afb52">
+      <Entity type="Device" subtype="NA" id="39296352-9ef3-4ac9-8da4-0f2f7eed2a50" name="HMI" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 10:07:26" trackingId="36006d84-09de-45ca-8b86-10074dd261c9" DN="HMI" hash="f04ba8027097c732f068d506fda1b792" DHS="ae4a5973bdf2f98b94302a930761fb9f" TH="50a9137dfc06982d0c42c985b5873c47">
         <AccessInfos />
         <ChildEntities>
           <Entity type="Watch" subtype="" id="85684ea5-3cd5-48ee-ac9a-9ecf82083827" name="Watch" version="0" dateCreated="01/04/2018 09:51:19" trackingId="7f02dc8b-7d81-4e39-aeac-df18f9c6703b">
@@ -264,7 +264,7 @@
               <Entity type="InternalDeviceReferences" subtype="" id="5ee053b4-2713-493f-81f0-7dd938c50e0e" name="Internal Devices" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 10:07:26" trackingId="dfddc40a-b9a5-4087-83b9-767ce1360a3a" DN="Internal Devices">
                 <AccessInfos />
                 <ChildEntities>
-                  <Entity type="DeviceReference" subtype="InternalDevice" id="c956ede0-15fb-4c8e-9825-39ebff40d9fe" name="PLC" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 10:07:26" trackingId="fff9bf31-5393-407d-8ede-824030209323" DN="PLC" hash="cfffa38c23d6e7193f54b696ffb3d9bf">
+                  <Entity type="DeviceReference" subtype="InternalDevice" id="c956ede0-15fb-4c8e-9825-39ebff40d9fe" name="PLC" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 13:48:50" trackingId="fff9bf31-5393-407d-8ede-824030209323" DN="PLC" hash="c85b8d3cca95c21e9270a7c1a2b56f73">
                     <AccessInfos />
                     <ChildEntities>
                       <Entity type="DataType" subtype="" id="f8ea3555-0d79-4130-ac21-0146826e07d2" name="Data Types0" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 09:51:19" trackingId="ccb8bd8f-ea8e-4536-a774-6bdb91056155">
@@ -282,14 +282,14 @@
               </Entity>
             </ChildEntities>
           </Entity>
-          <Entity type="IOMap" subtype="" id="04a9de22-8c7c-4035-914f-725ab8b6630d" name="Variable Mapping" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 09:51:19" trackingId="6fd479bd-8df2-41ae-9474-ed2f4a8289e1" DN="Variable Mapping">
+          <Entity type="IOMap" subtype="" id="04a9de22-8c7c-4035-914f-725ab8b6630d" name="Variable Mapping" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 13:48:50" trackingId="6fd479bd-8df2-41ae-9474-ed2f4a8289e1" DN="Variable Mapping" hash="0784e32caf7e62e9c7bac1f25dd6e294">
             <AccessInfos />
             <ChildEntities />
           </Entity>
           <Entity type="HmiPagesGroup" subtype="MainPagesGroup" id="39fa0cd7-8833-487b-a150-7e37c13dd74f" name="Pages" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 10:07:26" trackingId="efdfc7e8-a14d-4b83-a7a9-4d5b48d1dbeb" DN="Pages">
             <AccessInfos />
             <ChildEntities>
-              <Entity type="HmiPage" subtype="GraphicalPage" id="57b12e91-5285-44da-bc39-c4c9d207e336" name="Page0" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 10:07:26" trackingId="e2377edd-4a95-401e-8b1a-58fed221dbac" hash="0b826048e1325d58f0df91518bb7ef86">
+              <Entity type="HmiPage" subtype="GraphicalPage" id="57b12e91-5285-44da-bc39-c4c9d207e336" name="Page0" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 13:48:50" trackingId="e2377edd-4a95-401e-8b1a-58fed221dbac" hash="b65a1c2a87949d295da8f5c260b13871">
                 <AccessInfos />
                 <ChildEntities>
                   <Entity type="HmiPage" subtype="VisualBasicPage" id="13e3466b-cf3b-4aa3-8c10-cc4b7d4ebe6a" name="Page.vb" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 09:51:19" trackingId="575f7e82-67a5-4fe9-b281-a48dceccb897">
@@ -362,7 +362,7 @@
                   </Entity>
                 </ChildEntities>
               </Entity>
-              <Entity type="Variables" subtype="MemoryVariables" id="6566adec-eab8-47c3-8018-e3f82dad575c" name="Global Variables" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 10:07:26" trackingId="1f6759ff-a4ef-4f24-abd4-97b69eb92674" DN="Global Variables" hash="25affb96672a17619d0656744a891a11">
+              <Entity type="Variables" subtype="MemoryVariables" id="6566adec-eab8-47c3-8018-e3f82dad575c" name="Global Variables" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 13:48:50" trackingId="1f6759ff-a4ef-4f24-abd4-97b69eb92674" DN="Global Variables" hash="6d6f3022a576f208a9cb2b12ea77bcf8">
                 <AccessInfos />
                 <ChildEntities />
               </Entity>
@@ -388,7 +388,7 @@
           <Entity type="ResourceGroup" subtype="" id="810e85f9-a738-47cd-b6e3-6c855bcb050a" name="Resources" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 10:07:26" trackingId="1fd722b9-2cf2-44a4-bcb8-90ebb0b8200d" DN="Resources">
             <AccessInfos />
             <ChildEntities>
-              <Entity type="LocalisationResources" subtype="" id="b6fc132c-72b9-41a2-acfb-53e9f6461688" name="Root" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 10:07:26" trackingId="da2a82d0-b18e-481b-9048-6623488c77ec" DN="Root" hash="b07cced617ebabf42fe40a5a89a5f28c">
+              <Entity type="LocalisationResources" subtype="" id="b6fc132c-72b9-41a2-acfb-53e9f6461688" name="Root" version="0" dateCreated="01/04/2018 09:51:19" dateLastModified="01/04/2018 13:48:50" trackingId="da2a82d0-b18e-481b-9048-6623488c77ec" DN="Root" hash="a53f36cb02331614d0bd747dc39ed033">
                 <AccessInfos />
                 <ChildEntities />
               </Entity>

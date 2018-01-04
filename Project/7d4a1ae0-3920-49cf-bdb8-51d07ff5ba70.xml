@@ -1,1 +1,1 @@
-﻿{"CLs":[{"__type":"LD","Var":"In00"},{"__type":"LD","Ix":1,"Var":"In01","X":1},{"__type":"LD","Ix":2,"Var":"In02","X":2},{"__type":"ST","Ix":3,"Var":"Out00","X":3}],"LRI":4,"RRI":5,"VLs":[]}
+﻿{"CLs":[{"__type":"LD","Var":"In00"},{"__type":"LD","Ix":1,"Var":"In01","X":1},{"__type":"LD","Ix":2,"Var":"In02","X":2},{"__type":"LD","Ix":3,"Var":"In03","X":3},{"__type":"LD","Ix":4,"Var":"In04","X":4},{"__type":"ST","Ix":5,"Var":"Out00","X":5}],"LRI":6,"RRI":7,"VLs":[]}

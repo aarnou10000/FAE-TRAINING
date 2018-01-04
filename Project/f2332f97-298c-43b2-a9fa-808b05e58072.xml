@@ -1,0 +1,6 @@
+[SLWD version=1.0]
+_EN=Variables
++GN=VAR	GVT=DefaultGroup
++GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
+++D=BOOL	N=PB_Start	G=VAR_EXTERNAL
+++D=BOOL	N=Output_1	G=VAR_EXTERNAL

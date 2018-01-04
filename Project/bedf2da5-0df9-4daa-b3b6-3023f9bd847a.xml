@@ -3,3 +3,5 @@ _EN=Variables
 +GN=VAR_GLOBAL	GVT=GlobalNamespaceGroup
 ++D=BOOL	N=PB_Start	G=VAR_GLOBAL
 ++D=BOOL	N=Output_1	G=VAR_GLOBAL
+++D=BOOL	N=PB_Start2	G=VAR_GLOBAL
+++D=BOOL	N=Output_2	G=VAR_GLOBAL

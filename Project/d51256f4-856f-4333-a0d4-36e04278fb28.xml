@@ -1,2 +1,2 @@
-﻿{"CLs":[{"__type":"LD","Var":"PB_Start"},{"__type":"LD","Ix":1,"Var":"PB_Start","X":1},{"__type":"ST","Ix":2,"Var":"Output_1","X":2}],"LRI":3,"RRI":4,"VLs":[]}
+﻿{"CLs":[{"__type":"LD","Var":"PB_Start"},{"__type":"LD","Ix":1,"Var":"PB_Start","X":1},{"__type":"LD","Ix":2,"Var":"PB_Start","X":2},{"__type":"ST","Ix":3,"Var":"Output_1","X":3}],"LRI":4,"RRI":5,"VLs":[]}
 {"CLs":[{"__type":"LD","Var":"PB_Start2"},{"__type":"LD","Ix":1,"Var":"ip3","X":1},{"__type":"LD","Ix":2,"Var":"ip4","X":2},{"__type":"LD","Ix":3,"Var":"ip5","X":3},{"__type":"LD","Ix":4,"Var":"ip6","X":4},{"__type":"ST","Ix":5,"Var":"Output_2","X":5}],"LRI":6,"RRI":7,"VLs":[]}
